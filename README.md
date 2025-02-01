@@ -112,4 +112,4 @@ Whether you're a tennis fan or a tech enthusiast, we hope you enjoy this project
 ---
 
 **Made with ❤️ by Sohan**  
-*"In tennis, love means zero. In coding, love means everything."* 😄
+*"In tennis, love means zero. In coding, love means everything. and i know this is a small project but small steps to reach the top right"* 😄
