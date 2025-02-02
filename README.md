@@ -71,6 +71,9 @@ After training, the model will be able to detect:
 - **Nets**: Locate the tennis net.
 - **Pitch Lines**: Detect the boundaries and lines of the tennis court.
 
+![image1](https://github.com/user-attachments/assets/a261e7f4-ce11-4197-a09f-09181767c528)
+
+
 ## 🧠 Why YOLOv5?
 
 - **Speed**: YOLOv5 is incredibly fast, making it suitable for real-time applications.
@@ -112,4 +115,4 @@ Whether you're a tennis fan or a tech enthusiast, we hope you enjoy this project
 ---
 
 **Made with ❤️ by Sohan**  
-*"In tennis, love means zero. In coding, love means everything. and i know this is a small project but small steps to reach the top right"* 😄
+*"In tennis, love means zero . I know this is a small project but small steps to reach the top right"* 😄
